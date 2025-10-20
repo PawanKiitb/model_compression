@@ -23,8 +23,7 @@ The table below summarizes model size, validation accuracy, and measured latency
 | 5 | 59,870,210  | 229.31 | 89.79 | 4.26 | head_pruned_student |
 | 6 | 59,870,210  | 115.11 | 89.79 | 4.17 | head_pruned_student_quantized |
 
-
-
+Google Drive link to the models: https://drive.google.com/drive/folders/177rvDiS1Lr_M7qJ1EOWyNfGvKTLyqSTl?usp=drive_link
 
 ## Requirements
 
